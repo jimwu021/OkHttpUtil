@@ -18,7 +18,7 @@
 目前支援String, byte[], InputStream與ByteString。除以上類別之外，即便連線成功，responseData也只會回傳null。
 日後若要增加其他回應內容， 應參考Response、ResponseBody類別提供的方法。
 
-<p>sendPost系列方法的部分參數說明請參考`sendPost()`方法。
+<p>sendPost系列方法的部分參數說明請參考<code>sendPost()</code>方法。
 
 ## 呼叫範例：
 <pre>
